@@ -4,7 +4,7 @@ VERSION = 0.8.5
 # Customize below to fit your system
 
 # paths
-PREFIX = /home/benjamin
+PREFIX = /home/benjamin/.local
 MANPREFIX = /home/benjamin/.local/share/man
 
 X11INC = /usr/include/X11
